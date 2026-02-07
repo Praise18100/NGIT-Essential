@@ -1,0 +1,60 @@
+1. Define a computer and explain the difference between hardware and software,
+giving three examples of each.
+ANSWER:
+A computer is an electronic device that accepts data as input, processes it, stores it, and produces output based on instructions.
+Hardware are the physical parts of a computer which are the components you can touch.
+Examples:Mouse, Keyboard, Monitor, Hard drive
+Software are the programs and instructions that tell the hardware what to do. You cannot touch software.
+Examples:Microsoft Word, Google Chrome, Operating systems
+
+2. What is an operating system? State two of its primary functions.
+An operating system (OS) is system software that manages a computer’s hardware and provides an environment for applications to run.
+Two primary functions:
+Manages CPU, memory, storage, Resource and devices.
+Provides ways for users to interact with the computer (GUI or command line).
+
+3. Compare Windows and Linux, highlighting any three differences.
+- Windows is mostly a paid operating system, meaning you usually need to buy a license.
+Linux, on the other hand, is mostly free and open-source, so anyone can download and use it without paying.
+-Windows has limited customization — you can change themes and settings but not the core system.
+Linux is highly customizable. Users can change almost everything, including how the system looks and behaves.
+-Windows is more vulnerable to viruses because it’s widely used and targeted more often.
+Linux is generally more secure because its open-source nature allows experts to find and fix issues quickly.
+
+4. Explain the following terms:
+○ File: A file is a collection of data stored in a computer, such as a document, image, or video.
+○ Folder (Directory): A folder is a container used to organize and group files (and sometimes other folders).
+○ File extension: A file extension is the suffix at the end of a filename that shows the file type.
+
+5. What is the command line, and why is it important for developers?
+The command line (or terminal) is a text-based interface used to control a computer by typing commands.
+It is important for developer because it Offers more control and speed than graphical interfaces and allows automation through scripts
+
+6. Define the following internet-related terms:
+○ Server: A powerful computer that stores data or services and provides them to other computers over a network.
+○ Browser: A software application used to access and display websites
+○ IP Address: A unique number assigned to every device on a network, used to identify it
+○ DNS: A service that converts domain names into IP addresses.
+○ HTTP and HTTPS (state the difference)
+HTTP (HyperText Transfer Protocol) – transfers web data but not secure.
+HTTPS (HTTP Secure) – encrypted and secure, protects data from hackers and attacks.
+
+7. Describe the client–server model using a simple example.
+In a client–server model, the client requests a service, and the server provides it.
+Example: You open a website on your phone (client) and search for something.
+the website servers (server) send the result of your search back to your device.
+
+8. Differentiate between frontend and backend development.
+Frontend Development deals with what users see and interact with in the browser, includes layout, buttons, design.
+Backend Development works behind the scenes, handles logic, databases, user authentication, and server operations.
+
+9. Explain what a website, domain, and hosting are, and how they work together.
+Website is a collection of web pages accessible online.
+Domain is the name/address of a website (e.g., example.com).
+Hosting is the online storage space where website files are kept (on a server).
+
+How they work together:
+Hosting stores the website files. Domain directs users to the hosting server. Website is what users see when the domain loads the hosted files.
+
+10. Briefly describe the browser rendering process.
+When you visit a website, the browser first downloads the HTML, CSS, and JavaScript files from the server. It then reads (parses) the HTML and builds a structure called the DOM, which represents all elements on the page. Next, it parses the CSS to create the CSSOM, which defines how each element should look. The browser combines the DOM and CSSOM to form the render tree, which includes only the visible elements. After that, it performs a layout step to calculate the exact position and size of each element. Finally, the browser paints or draws everything on the screen, resulting in the webpage you see.

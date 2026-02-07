@@ -1,0 +1,3 @@
+Why it is important for a web developer to understand computers, operating systems, and how they work
+
+It’s important for a web developer to understand computers and operating systems because all development work happens on these systems. Knowing how computers store files, run programs, and manage resources helps developers troubleshoot problems more efficiently. Understanding operating systems is also useful because developers often work with tools like command lines, servers, and code editors that behave differently on Windows, macOS, and Linux. Overall, this knowledge makes developers better at problem-solving, setting up environments, managing projects, and understanding how their code runs in real-world systems.
